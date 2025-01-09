@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="94" viewBox="0 0 460 94" fill="none">
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feOffset result="offOut" in="SourceAlpha" dx="1" dy="1" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="2" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <text x="130" y="60" font-family="Arial, sans-serif" font-size="80" fill="#32CD32">AGRO</text>
+    <text x="130" y="60" font-family="Arial, sans-serif" font-size="80" fill="#32CD32">Chain</text>
+  </g>
+</svg>
