@@ -17,19 +17,19 @@ const HeroSection = () => {
   const slides = [
     {
       id: 1,
-      src: "https://images.pexels.com/photos/10583788/pexels-photo-10583788.jpeg",
+      src: require('../../assets/constructfarm.jpg'),
       alt: "Slide 1",
       description: "Welcome to AgroChain!",
     },
     {
       id: 2,
-      src: "https://images.pexels.com/photos/7451969/pexels-photo-7451969.jpeg",
+      src: require('../../assets/fishs.jpg'),
       alt: "Slide 2",
       description: "Revolutionizing Agriculture with Technology.",
     },
     {
       id: 3,
-      src: "https://images.pexels.com/photos/19040471/pexels-photo-19040471.jpeg",
+      src: require('../../assets/train.jpg'),
       alt: "Slide 3",
       description: "Sustainability Meets Innovation.",
     },

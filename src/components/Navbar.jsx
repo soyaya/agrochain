@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { FaBars } from 'react-icons/fa';
 import { links, social } from '../data/data';
-import logo from './logo.svg';
+import logo from '../assets/logo.jpg';
 const Navbar = () => {
   const [showLinks, setShowLinks] = useState(false);
   const linksContainerRef = useRef(null);

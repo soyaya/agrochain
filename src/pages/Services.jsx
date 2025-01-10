@@ -15,7 +15,7 @@ const services = [
     description:
       'Our disease management service helps you prevent and treat common catfish diseases, ensuring a healthy fish population.',
     price: '₦15,000',
-    image: require('../assets/cdc-BbP7rqIGB3c-unsplash.jpg'),
+    image: require('../assets/disease.jpg'),
   },
   {
     id: 3,
@@ -39,7 +39,23 @@ const services = [
     description:
       'We assist in designing and constructing efficient fish farms, including ponds and tank systems.',
     price: '₦150,000',
-    image: require('../assets/overhead-aerial-shot-small-fishing-spot-near-lake.jpg'),
+    image: require('../assets/constructfarm.jpg'),
+  },
+  {
+    id: 5,
+    title: 'Trainings',
+    description:
+      '1 month practical training with us on catfish hatching, stocking and bsf farming',
+    price: '₦50,000',
+    image: require('../assets/constructfarm.jpg'),
+  },
+  {
+    id: 5,
+    title: 'Online Trainings',
+    description:
+      'online practical training with us on catfish hatching, stocking and bsf farming',
+    price: '₦10,000',
+    image: require('../assets/constructfarm.jpg'),
   },
 ];
 

@@ -76,7 +76,7 @@ const menu = [
     title: 'Organic Manure',
     category: 'black soldier fly',
     price: 2000,
-    img: require('../../assets/top-view-basket-veggies-with-copy-space.jpg'),
+    img: require('../../assets/top-view-basket-veggies-with-copy-space (1).jpg'),
     desc: 'Sold at 2000/kg in the black soldier fly category.',
   },
   {

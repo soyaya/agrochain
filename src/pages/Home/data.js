@@ -5,7 +5,7 @@ export const services = [
       description: "Ensuring optimal water quality for sustainable aquaculture practices.",
     },
     {
-      image: require('../../assets/cdc-BbP7rqIGB3c-unsplash.jpg'),
+      image: require('../../assets/disease.jpg'),
       title: "Disease Management",
       description: "Comprehensive solutions for preventing and managing aquatic diseases.",
     },
@@ -20,7 +20,7 @@ export const services = [
       description: "Streamlined management practices for maximizing aquaculture efficiency.",
     },
     {
-      image: require('../../assets/polina-kuzovkova-exmcE6F8BjQ-unsplash.jpg'),
+      image: require('../../assets/farm.jpg'),
       title: "Farm Construction",
       description: "Expert farm design and construction services to suit your needs.",
     },
@@ -34,7 +34,7 @@ export const services = [
   
   export const consultations = [
     {
-      image: require('../../assets/download (1).jpg'),
+      image: require('../../assets/fly.jpg'),
       title: "BSF Farming",
       description: "Expert advice on sustainable and profitable small-scale farming techniques.",
     },
@@ -54,12 +54,12 @@ export const services = [
       description: "Tailored feed production solutions to meet the nutritional needs of your aquaculture.",
     },
     {
-      image: require('../../assets/eleonore-gautier-GvmJ9oNJGU4-unsplash.jpg'),
+      image: require('../../assets/azolla.jpg'),
       title: "Azolla Production",
       description: "Step-by-step support for cultivating Azolla as a sustainable feed resource.",
     },
     {
-      image: require('../../assets/lucas-van-oort-xgV135YCs_4-unsplash.jpg'),
+      image: require('../../assets/duck.jpg'),
       title: "Duckweed Production",
       description: "Innovative methods for maximizing duckweed yield and efficiency.",
     },
@@ -108,17 +108,17 @@ export const services = [
   
   export const testimonials = [
     {
-      image: require('../../assets/fish-285827_1280.png'),
+      image: require('../../assets/fish.png'),
       name: "Chukwudi Okafor",
       feedback: "The catfish hatching training provided by AgroChain helped me improve my hatchery success rate. Highly practical and informative!",
     },
     {
-      image: require('../../assets/fish-285827_1280.png'),
+      image: require('../../assets/fishs.jpg'),
       name: "Ngozi Eze",
       feedback: "Thanks to AgroChain, my fish stocking practices have been more efficient, leading to a healthier and faster-growing stock. I highly recommend their expertise.",
     },
     {
-      image: require('../../assets/fish-285827_1280.png'),
+      image: require('../../assets/fly.jpg'),
       name: "Olumide Adeyemi",
       feedback: "The Black Soldier Fly farming training was an eye-opener. AgroChain provided me with all the tools to set up my farm and generate sustainable protein.",
     },
@@ -127,7 +127,7 @@ export const services = [
   
   export const cooperatives = [
     {
-      image: require('../../assets/sunday-abegunde-xPcoPdZX9YU-unsplash.jpg'),
+      image: require('../../assets/sunday-abegunde-xPcoPdZX9YU-unsplash (1).jpg'),
       title: "Anakgazo Loan Program",
       description: "Anakgazo offers flexible loan schemes to support fish farmers and aquaculture businesses. We empower individuals with financial assistance for farm expansion, equipment, and feed production.",
     },
@@ -137,7 +137,7 @@ export const services = [
       description: "Our cooperative provides hands-on training on sustainable aquaculture practices, including fish hatching, stocking, and farm management. We ensure farmers gain the necessary skills for success in the industry.",
     },
     {
-      image: require('../../assets/claudio-schwarz-fyeOxvYvIyY-unsplash.jpg'),
+      image: require('../../assets/data.jpg'),
       title: "Anakgazo Fish Data Development",
       description: "We are committed to developing and analyzing fish farming data to help farmers make informed decisions. Through our data collection and research, we aim to drive growth and sustainability in the aquaculture sector.",
     },
